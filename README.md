@@ -90,3 +90,15 @@ This application can be deployed on platforms such as Render, Railway, or Heroku
 
 ## License
 This project is licensed under the ISC License.
+# 👨‍💻 Author
+
+**Shubham Gusain**
+
+GitHub:  
+https://github.com/Shubham0x1
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving the repository a **star ⭐**.
